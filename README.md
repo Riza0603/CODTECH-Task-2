@@ -1,4 +1,4 @@
-# CODTECH-Task2
+# CODTECH-Task-2
 
 
 * **Project Name:** To-Do List
