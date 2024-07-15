@@ -7,7 +7,7 @@
 * **Company:** CODTECH IT SOLUTIONS
 * **Domain:** Web Development
 * **Duration:** June - July 2024
-* **Mentor:** MUZAMMIL
+* **Mentor:** Santosh Kumar 
 
   This code is for a single-page weather application named UrWeather. Here's an overview of the project, including its objective:
 
